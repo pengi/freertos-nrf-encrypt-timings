@@ -1,0 +1,3 @@
+[submodule "vendor/tinyprintf"]
+	path = vendor/tinyprintf
+	url = https://github.com/cjlano/tinyprintf.git
